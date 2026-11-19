@@ -1,4 +1,4 @@
-import React, { useState, useMemo, FormEvent } from 'react';
+import React, { useState, useMemo, type FormEvent } from 'react';
 
 // ==========================================
 // ★ Google Apps Script (GAS) Web API URL
