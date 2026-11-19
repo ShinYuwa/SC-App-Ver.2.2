@@ -3,7 +3,7 @@ import React, { useState, useMemo, type FormEvent } from 'react';
 // ==========================================
 // ★ Google Apps Script (GAS) Web API URL
 // ==========================================
-const GAS_API_URL = '';
+const GAS_API_URL = 'https://script.google.com/macros/s/AKfycbzfBG-3G2L7xiSei7fRGMnz_5lf2RtWLxM1nXHzYcBnJm0RRG_Une5G7pqWq8Y_OHwmcw/exec';
 
 // ==========================================
 // 1. 型定義 (TypeScript)
